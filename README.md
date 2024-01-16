@@ -6,7 +6,7 @@ This Portfolio is a compilation of some the Data Science and Data Engineer proje
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Clasifition of images using Tensor Flow](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -15,7 +15,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[ETL of value of Bitcoin](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -24,7 +24,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Proccesing of Movie Reviews using SparkStreaming ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -33,7 +33,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using Spark ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -42,7 +42,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using MapReduce ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -51,7 +51,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Using AWS to thow instances of EC2](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
@@ -60,7 +60,25 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Link to project](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[AWS and IoT](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+Description 
+
+
+. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Using different models to analize Dataset of Bikes](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+Description 
+
+
+. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[AWS and IoT](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 Description 
 
