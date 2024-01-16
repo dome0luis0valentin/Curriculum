@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [valentindome777@gmail.com](valentindome777@gmail.com)
-- **LinkedIn**: [linkedin.com/valentin-domé](www.linkedin.com/in/valentin-domé-698741294)
+- **LinkedIn**: [linkedin.com/valentin-domé](https://www.linkedin.com/in/valentin-dom%C3%A9-698741294/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
