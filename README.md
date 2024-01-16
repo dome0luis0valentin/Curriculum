@@ -64,8 +64,8 @@ In this project I applied various classification models such as Logistic Regress
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensor Flow, Keras, Matplotlib), SQL, JavaScript,
-- **Tools**: PosGreSQL, Git, PySpark, Amazon Web Services (AWS), Flask, Django
+- **Methodologies**: Machine Learning, Deep Learning, Natural Language Processing, Data Mining, ETL, Big Data Procesing
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensor Flow, Keras, Matplotlib), SQL, JavaScript, CSS, HTML
+- **Tools**: PostGreSQL, MongoDB, Git, PySpark, Hadoop, MapReduce, Docker, Amazon Web Services (AWS), Flask, Django
 
 ´this portafolio is based in https://github.com/archd3sai/Portfolio/blob/master/README.md´
