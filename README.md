@@ -20,7 +20,7 @@ El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[ETL of value of Bitcoin](https://github.com/dome0luis0valentin/Curriculum/blob/main/images/etl-bitcoin.png)**
+<img align="left" width="250" height="150" src="[https://github.com/dome0luis0valentin/Curriculum/blob/main/images/etl-bitcoin.png](https://github.com/dome0luis0valentin/Curriculum/blob/main/images/etl-bitcoin.png)"> **[ETL of value of Bitcoin](https://github.com/dome0luis0valentin/Curriculum/blob/main/images/etl-bitcoin.png)**
 
 Description 
 
