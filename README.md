@@ -25,7 +25,7 @@ El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
 Description 
 
 
-. [Proof of the project]([https://churn-prediction-app.herokuapp.com/](https://github.com/dome0luis0valentin/ETL-BitCoin))  
+. [Proof of the project](https://github.com/dome0luis0valentin/ETL-BitCoin)  
 
 #
 
