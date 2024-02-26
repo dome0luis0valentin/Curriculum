@@ -29,7 +29,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Proccesing of Movie Reviews using SparkStreaming ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Proccesing of Movie Reviews using SparkStreaming]**
 
 Description 
 
@@ -38,7 +38,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using Spark ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using Spark ](**
 
 Description 
 
@@ -47,7 +47,7 @@ Description
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using MapReduce ](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using MapReduce ]**
 
 Description 
 
