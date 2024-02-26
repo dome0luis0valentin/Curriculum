@@ -24,17 +24,11 @@ El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
 
 I make this project to achieve get a real-time price of bitcoin in my Whatsapp. 
 
-
-. [Proof of the project](https://github.com/dome0luis0valentin/ETL-BitCoin)  
-
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Comparator of Inversions with Spark and Kafka](https://github.com/dome0luis0valentin/Etl-Kafka)**
 
 In this project, I build a programm that compara day by day the diference between did a inversion in "Plazo fijo", buy Dolars or buy actions in the 10 principals companys of Argentina 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
 
 #
 
