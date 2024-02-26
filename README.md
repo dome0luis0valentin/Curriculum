@@ -22,7 +22,7 @@ El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
 
 <img align="left" width="250" height="150" src="https://github.com/dome0luis0valentin/Curriculum/blob/main/images/bitcoin.png">**[ETL of value of Bitcoin](https://github.com/dome0luis0valentin/Curriculum/blob/main/images/etl-bitcoin.png)**
 
-Description 
+I make this project to achieve get a real-time price of bitcoin in my Whatsapp. 
 
 
 . [Proof of the project](https://github.com/dome0luis0valentin/ETL-BitCoin)  
