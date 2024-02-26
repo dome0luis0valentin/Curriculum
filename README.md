@@ -45,59 +45,7 @@ Description
 
 . [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
 
-#
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using MapReduce ]**
-
-Description 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Using AWS to thow instances of EC2](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Description 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[AWS and IoT](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Description 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Using different models to analize Dataset of Bikes](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Description 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[AWS and IoT](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Description 
-
-
-. [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
-
-#
-<br />
-
-- ### Challenges
-    - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-    - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
-    
-## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Natural Language Processing, Data Mining, ETL, Big Data Procesing
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensor Flow, Keras, Matplotlib), SQL, JavaScript, CSS, HTML
