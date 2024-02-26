@@ -8,12 +8,9 @@ This Portfolio is a compilation of some the Data Science and Data Engineer proje
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Clasifition of images using Tensor Flow](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-El objetivo es construir un clasificador capaz diferenciar imágenes de ANIME (manga) de imágenes CARTOON (comic).
-Las imágenes se encuentran en el archivo manga_comic.zip ubicado en el siguiente [LINK](https://drive.google.com/file/d/1Bj80lhp2N_tzoMMHVaRBdSYToI7t0Poh/view)
-y se encuentran organizadas en 3 conjuntos: 3942 imágenes para entrenamiento, 1990 para  calidación y 2649 para testeo.
+The objective is to build a classifier capable of differentiating ANIME images (manga) from CARTOON images (comic). The images are found in the manga_comic.zip file located at the following [LINK](https://drive.google.com/file/d/1Bj80lhp2N_tzoMMHVaRBdSYToI7t0Poh/view) and are organized in 3 sets: 3942 images for training, 1990 for quality and 2649 for testing.
 
-El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
- 
+The AAP2022-Competencia.ipynb notebook contains the solution to the problem. 
 
 
 . [Link to colab](https://colab.research.google.com/drive/1V_XndtwVd6nE2E3Td25T4G2ST8OwrW8a#scrollTo=xetLSYQaMFH5)  
@@ -24,12 +21,17 @@ El notebook AAP2022-Competencia.ipynb contiene la solución al problema.
 
 I make this project to achieve get a real-time price of bitcoin in my Whatsapp. 
 
+[]
+
 #
+
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Comparator of Inversions with Spark and Kafka](https://github.com/dome0luis0valentin/Etl-Kafka)**
 
 In this project, I build a programm that compara day by day the diference between did a inversion in "Plazo fijo", buy Dolars or buy actions in the 10 principals companys of Argentina 
-.
+
+[]
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using Spark ](**
