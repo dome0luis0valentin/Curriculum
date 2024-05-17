@@ -39,7 +39,28 @@ In this project, I build a programm that compara day by day the diference betwee
 
 Process to analyze the data from the "Taller de Programación" notes.
 
-[]
+[
+
+]
+
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/dome0luis0valentin/Curriculum/blob/main/images/OhMyDog.png">**[Veterinary Administration Page](https://github.com/dome0luis0valentin/OhMyDog)**
+
+La idea general de esta página web es permitir a los veterinarios llevar un registro de
+sus clientes de manera más simple y rápida, permitir a los usuarios y clientes crear
+una comunidad entre ellos en base a sus perros. Además de permitirles administrar
+la salud de sus perros.
+Entre sus principales funcionalidades se encuentran:
+- Solicitar turnos
+- Publicar y ver perros perdidos, encontrados y en adopción.
+- Hacer donaciones
+- Registrar visitas a la veterinaria
+- Ver paseadores y cuidadores
+- Buscar pareja para sus perros.
+- Ver historial de vacunación, turnos, visitas, vacunas y desparasitaciones
+aplicadas.
 
 #
 
