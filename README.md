@@ -34,6 +34,15 @@ In this project, I build a programm that compara day by day the diference betwee
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/dome0luis0valentin/Curriculum/blob/main/images/Examn.jpeg">**[Analysis of exam notes](https://github.com/dome0luis0valentin/AnalisisDeNotasFacultad/tree/main)**
+
+
+Process to analyze the data from the "Taller de Programación" notes.
+
+[]
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Procesing of Cooking Recipes Using Spark ]()**
 
 Description 
