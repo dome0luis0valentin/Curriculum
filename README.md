@@ -70,6 +70,8 @@ Description
 
 
 . [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
+.
+.
 
 #
 
