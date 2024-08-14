@@ -71,7 +71,7 @@ Description
 
 . [Proof of the project](https://churn-prediction-app.herokuapp.com/)  
 
-
+#
 
 - **Methodologies**: Machine Learning, Deep Learning, Natural Language Processing, Data Mining, ETL, Big Data Procesing
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Tensor Flow, Keras, Matplotlib), SQL, JavaScript, CSS, HTML
